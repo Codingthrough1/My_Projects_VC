@@ -1,14 +1,9 @@
 
-# Tech-Academy-Projects
+# Projects
 
-This repository contains projects and challenge files completed as part of the Tech Academy course. 
+This repository includes the projects and challenge files I completed during the Tech Academy course.
 
-## Current Projects
+# Current Projects
 
-- **VCCourse_Challenge_1.txt** – A simple text file challenge demonstrating GitHub Desktop usage.
+VCCourse_Challenge_1.txt 
 
-## How to Use
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/YourUsername/Tech-Academy-Projects.git
